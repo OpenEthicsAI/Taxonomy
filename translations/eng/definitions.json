@@ -12,9 +12,16 @@
         {
             "language": "eng",
             "term": "Artificial intelligence",
-            "definition": "Artificial intelligence (AI) is a system that makes it possible for a computer to learn from experience, adjust to new inputs, and perform tasks commonly associated with human intelligence. Today AI is properly known as “narrow AI” (or “weak AI”), as it is designed to perform a narrow task (e.g. recognize objects, classify images, recommend products, generate content, conduct goal-oriented conversations).",
+            "definition": "Artificial intelligence (AI) is a computer-based system that makes it possible for a machine to learn from data, adjust to new inputs, and perform tasks commonly associated with human intelligence. AI systems are designed to operate with varying degrees of autonomy and infer outputs from the inputs they receive. Today AI is properly known as “narrow AI” (or “weak AI”), as it is designed to perform a narrow task (e.g. recognize objects, classify images, recommend products, generate content, conduct goal-oriented conversations).",
             "metaphor": "",
-            "updated": "2023-09-30"
+            "updated": "2025-10-05"
+        },
+        {
+            "language": "eng",
+            "term": "Inference",
+            "definition": "Inference is the process by which a trained AI model processes new data and generates results such as predictions, classifications, or recommendations based on patterns it learned during training. Unlike deterministic logic in traditional software, AI systems rely on these learned patterns rather than fixed rules.",
+            "metaphor": "",
+            "updated": "2025-10-05"
         },
         {
             "language": "eng",
